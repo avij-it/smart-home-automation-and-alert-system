@@ -15,7 +15,7 @@ Welcome to the **Smart Home Automation and Alert System** repository! This proje
 
 The `BlynkLib.py` library is included in this repository and is used for integrating Blynk functionality. It is provided with the following copyright notice:
 
-Copyright (c) 2015-2019 Volodymyr Shymanskyy. See the file [LICENSE](LICENSE) for copying permission.
+Copyright (c) 2015-2019 Volodymyr Shymanskyy.
 
 ## Getting Started
 
