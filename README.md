@@ -21,6 +21,6 @@ Copyright (c) 2015-2019 Volodymyr Shymanskyy.
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/manna-avijit/smart-home-automation-and-alert-system.git
+   git clone https://github.com/avij-it/smart-home-automation-and-alert-system.git
 2. Upload and Configure Scripts Upload the scripts to your MicroPython device and configure any necessary credentials.
 3. Run the Scripts Execute the scripts to start monitoring and automation.
